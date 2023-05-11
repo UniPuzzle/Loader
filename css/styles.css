@@ -40,8 +40,8 @@ p {
 
 .wrap {
   position: relative;
-  margin-top: 100px;
-  width: 80%;
+  margin-top: 50vh;
+  /* width: 80%; */
   margin-left: auto;
   margin-right: auto;
 }
@@ -56,15 +56,19 @@ p {
   left: 19%;
 }
 .letter-first {
-  width: 24px;
-  height: 38px;
-  margin-right: 4px;
+  /* width: 24px;
+  height: 38px; */
+  width: 10%;
+  height: 10%;
+  margin-right: 1.5%;
   animation: letter-first-animation 2.5s infinite;
 }
 
 .letter-second {
-  width: 24px;
-  height: 38px;
+  /* width: 24px;
+  height: 38px; */
+  width: 10%;
+  height: 10%;
   animation: letter-second-animation 2.5s infinite;
 }
 
